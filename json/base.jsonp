@@ -1,0 +1,11 @@
+base(
+{
+	name: 'name',
+	age: 20,
+	likes: {
+		most: "rise",
+		better: "mikan",
+		soso: "bread"
+	}
+}
+);

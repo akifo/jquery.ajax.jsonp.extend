@@ -1,0 +1,21 @@
+person(
+[
+  {
+  	name: 'akifo',
+  	age: 28,
+  	likes: {
+  		better: "apple",
+  		soso: "burger"
+  	}
+  },
+  {
+  	name: 'tanaka',
+  	age: 41,
+  },
+  {
+  	name: 'jack',
+  	age: 81,
+  	languages: ["English", "Japanese"]
+  }
+]
+);
